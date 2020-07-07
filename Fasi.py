@@ -68,7 +68,6 @@ def tik():
 
 back = 0
 berhasil = []
-cekpoint = []
 oks = []
 id = []
 listgrup = []
